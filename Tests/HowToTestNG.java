@@ -9,7 +9,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.*;
 
-public class SeleniumTests1 {
+public class HowToTestNG {
     private WebDriver       driver;
     private WebDriverWait   driverWait;
     private ChromeOptions   chromeOptions = new ChromeOptions()
